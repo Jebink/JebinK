@@ -87,9 +87,9 @@
 5. 🗣 Commented on [#249](https://github.com/abhisheknaiidu/awesome-github-profile-readme/issues/249) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
 <!--END_SECTION:activity-->
 
-### <i class="fab fa-github"></i> Git Stats
+### Git Stats
 
-  <img align="left" alt="JebinK Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Jebink&show_icons=true&hide_border=true" />
+<img align="left" alt="JebinK Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Jebink&show_icons=true&hide_border=true" /><br><br>
 
 [website]: https://codeSTACKr.com
 [twitter]: https://twitter.com/codeSTACKr
