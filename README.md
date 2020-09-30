@@ -108,4 +108,41 @@
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+
+<h2>📊 Weekly development breakdown: </h2>
+<table>
+                <tr>
+                    <td width=215px;>
+                        Python
+                    </td>
+                    <td>
+                        12 hrs 37 mins
+                    </td>
+                    <td>
+                        ███████░░░&nbsp;&nbsp;(76.86 %)
+                    </td>
+                </tr>
+                <tr>
+                    <td width=220px;>
+                        CSS
+                    </td>
+                    <td width=145px;>
+                        2 hrs 22 mins
+                    </td>
+                    <td width=230px;>
+                        █░░░░░░░░░&nbsp;&nbsp;(14.48 %)
+                    </td>
+                </tr>
+                <tr>
+                    <td width=220px;>
+                        HTML
+                    </td>
+                    <td width=145px;>
+                        1 hr 1 min
+                    </td>
+                    <td width=230px;>
+                        ░░░░░░░░░░&nbsp;&nbsp;(6.28 %)
+                    </td>
+                </tr></table>
+<hr>
 # Jebink
