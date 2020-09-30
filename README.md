@@ -103,6 +103,7 @@
 
 ### 📊 Weekly development breakdown:
 
+<table>
                 <tr>
                     <td width=215px;>
                         Javascript
