@@ -87,7 +87,7 @@
 5. 🗣 Commented on [#249](https://github.com/abhisheknaiidu/awesome-github-profile-readme/issues/249) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
 <!--END_SECTION:activity-->
 
-  <h3>📊 Weekly development breakdown: </h3>
+### Git Stats
 
   <img align="left" alt="JebinK Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Jebink&show_icons=true&hide_border=true" />
 
@@ -101,8 +101,8 @@
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
 
-<h3>📊 Weekly development breakdown: </h3>
-<table>
+### 📊 Weekly development breakdown:
+
                 <tr>
                     <td width=215px;>
                         Javascript
