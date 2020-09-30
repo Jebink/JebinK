@@ -77,7 +77,6 @@
 
 ---
 
-<details>
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
@@ -88,12 +87,10 @@
 5. 🗣 Commented on [#249](https://github.com/abhisheknaiidu/awesome-github-profile-readme/issues/249) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
 <!--END_SECTION:activity-->
 
-</details>
-
 <details>
-  <summary>:zap: Github Stats</summary>
+  <h3>📊 Weekly development breakdown: </h3>
 
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="JebinK Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Jebink&show_icons=true&hide_border=true" />
 
 </details>
 
@@ -107,17 +104,28 @@
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
 
-<h2>📊 Weekly development breakdown: </h2>
+<h3>📊 Weekly development breakdown: </h3>
 <table>
+                <tr>
+                    <td width=215px;>
+                        Javascript
+                    </td>
+                    <td>
+                        8 hrs 37 mins
+                    </td>
+                    <td>
+                        ███████░░░&nbsp;&nbsp;(76.86 %)
+                    </td>
+                </tr>
                 <tr>
                     <td width=215px;>
                         Python
                     </td>
                     <td>
-                        12 hrs 37 mins
+                        2 hrs 22 mins
                     </td>
                     <td>
-                        ███████░░░&nbsp;&nbsp;(76.86 %)
+                        █░░░░░░░░░&nbsp;&nbsp;(15.86 %)
                     </td>
                 </tr>
                 <tr>
