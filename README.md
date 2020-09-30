@@ -89,7 +89,7 @@
 
 ### Git Stats
 
-<img align="left" alt="JebinK Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Jebink&show_icons=true&hide_border=true" /><br><br><br><br><br><br><br><br>
+<img align="left" alt="JebinK Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Jebink&show_icons=true&hide_border=true" /><br><br><br><br><br><br>
 
 [website]: https://codeSTACKr.com
 [twitter]: https://twitter.com/codeSTACKr
