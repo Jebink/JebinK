@@ -46,11 +46,11 @@
 
 <img align="left" alt="JebinK Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Jebink&show_icons=true&hide_border=true" /><br><br><br><br><br><br>
 
-[website]: https://codeSTACKr.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[website]: https://jebink7.com
+[twitter]: https://twitter.com/Jebin74364030
+[youtube]: https://www.youtube.com/channel/UC4m70vDYXqSfbP5-UQSULiw
+[instagram]: https://www.instagram.com/jebinkallada
+[linkedin]: https://www.linkedin.com/in/jebin-k-koshy-84064216b
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
